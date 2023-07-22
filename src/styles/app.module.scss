@@ -1,0 +1,7 @@
+@import "./contants.scss";
+.container {
+  overflow-x: hidden;
+  position: relative;
+  color: $primary;
+  height: 200vh;
+}
